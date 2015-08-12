@@ -1,4 +1,4 @@
 /php/vendor
 /php/composer.phar
-/node/node_module
+/node/node_modules
 dump.rdb
