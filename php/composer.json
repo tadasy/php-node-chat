@@ -1,0 +1,16 @@
+{
+    "name": "php node chat",
+    "description": "",
+    "autoload": {
+        "psr-4": {
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+        }
+    },
+    "require": {
+        "slim/slim" : "2.6.*",
+        "rase/socket.io-emitter" : "0.7.0"
+    }
+}
