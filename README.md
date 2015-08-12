@@ -12,6 +12,9 @@
 * php -> nodeは node側に投稿受け付け用のapiでもつくってみる
     * apiをわざわざ作らずに socket.io 1.0から 多言語からemitできることがわかったので、 phpのemitterである [socket.io-php-emitter](https://github.com/rase-/socket.io-php-emitter) でphp -> node の通知を行う
 
+## イメージ
+![image](https://dl.dropboxusercontent.com/u/1193948/%E5%86%99%E7%9C%9F%202015-08-12%2016%2041%2000.jpg)
+
 ## require
 
 * phpredis PECL
